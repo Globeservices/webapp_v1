@@ -1,6 +1,6 @@
 
 FROM ubuntu
-  
+  #test de dockerfile
   MAINTAINER dirane (diranetafen@yahoo.com)
   
   RUN apt-get update
