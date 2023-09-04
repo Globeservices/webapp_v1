@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 FROM ubuntu
-=======
-  FROM ubuntu
->>>>>>> e7665931972a7c0802127a6b434d10fdf47ee8e6
   
   MAINTAINER dirane (diranetafen@yahoo.com)
   
